@@ -8,8 +8,7 @@ Welcome to the Healthcare Messenger! This platform is designed to facilitate sea
 
 Sign In: Access your account using your email and password.
 
-![Uploading Screenshot 2024-07-22 at 19.48.05.png…]()
-
+<img width="1680" alt="Screenshot 2024-07-22 at 19 48 05" src="https://github.com/user-attachments/assets/bf62f858-3121-44ab-9174-713458743400">
 
 Register: Create a new account to get started with our platform.
 
