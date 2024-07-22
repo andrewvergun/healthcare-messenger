@@ -4,15 +4,18 @@ Welcome to the Healthcare Messenger! This platform is designed to facilitate sea
 
 **Features**
 
-User Authentication
+**User Authentication**
 
 Sign In: Access your account using your email and password.
+
+![Uploading Screenshot 2024-07-22 at 19.48.05.png…]()
+
 
 Register: Create a new account to get started with our platform.
 
 Sign Out: Log out of your account securely.
 
-Channel Management
+**Channel Management**
 
 Create Channels: Start a new channel for group discussions.
 
@@ -20,7 +23,7 @@ Edit Channels: Modify channel details as needed.
 
 Add People to Channel: Invite other users to join your channels.
 
-Communication Tools
+**Communication Tools**
 
 Write in Channels: Post messages in channels for group communication.
 
