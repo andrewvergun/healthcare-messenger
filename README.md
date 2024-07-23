@@ -1,5 +1,7 @@
 **Healthcare Messenger**
 
+You can access Healthcare Messenger following the link: **https://healthcare-messenger-yxh1.onrender.com**
+
 Welcome to the Healthcare Messenger! This platform is developed with React for frontend and Node.js Express for backend and is designed to facilitate seamless communication between medical professionals through a robust and user-friendly interface. As a Fullstack Developer, I've crafted this application to support a range of features crucial for efficient communication in the medical field.
 
 **Features**
